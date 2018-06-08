@@ -1,0 +1,25 @@
+{
+  "name": "java",
+  "version": "0.0.1",
+  "description": "java测试练习",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangmingfei0214/java.git"
+  },
+  "keywords": [
+    "lg781936318lg"
+  ],
+  "author": "sunny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangmingfei0214/java/issues"
+  },
+  "homepage": "https://github.com/zhangmingfei0214/java#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
